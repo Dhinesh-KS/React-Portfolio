@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Dhinesh KS",
+    "occupation": "Software Engineer @Psiog Digital",
+    "description": "Full Stack Developer | Web & Mobile App Developer | Mentor ",
+    "image": "profile.png",
+    "bio": "Engineer by passion, Who always love to learn new technologies to update my knowledge base with the latest trends and to share it with people having similar thirst. Currently working as a full-stack developer with experience in building & managing web and mobile application.",
+    "contactmessage": "Get in touch with me.",
+    "email": "dhinaksd@gmail.com",
+    "phone": "+91 7010114990",
+    "address": {
+      "street": "Srinivasapuram",
+      "city": "Thanjavur",
+      "state": "TamilNadu",
+      "zip": "613009"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dhinesh.dhina.k.s?fref=nf",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhinesh-ks-836268168/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Dhinesh-KS",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of my technical skills",
+    "education": [
+      {
+        "school": "SASTRA Deemed To Be University",
+        "degree": "Bachelor's Degree, Mechanical",
+        "graduated": "June 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Psiog Digital Pvt Ltd",
+        "title": "Software Engineer",
+        "years": "Aug 2019 - Present",
+        "description": "Full-stack developer with experience in building & managing web and mobile application. I have a good experience in client-facing roles, gathering requirements, and providing appropriate solutions to business needs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "ReactNative",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+      {
+        "name": "C#",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bon-Voyage",
+        "category": "Vanilla JS Air tictketing Application",
+        "image": "Bon-Voyage.png",
+        "url": "https://github.com/Dhinesh-KS/BonVoyage"
+      },
+      {
+        "title": "React-MUI-CRUD",
+        "category": "Simple CRUD with React | Material-UI",
+        "image": "React-MUI-CRUD.png",
+        "url": "https://react-mui-8d6f0.web.app/"
+      },
+      {
+        "title": "Finance App UI",
+        "category": "React Native App Template",
+        "image": "FinanceApp.png",
+        "url": "https://www.linkedin.com/posts/dhinesh-ks-836268168_reactnative-expo-mobileapplication-activity-6698889023194329088-Pxjy"
+      },
+      {
+        "title": "Todo App",
+        "category": "NodeJS cmd line todo app",
+        "image": "nodejs-todo.png",
+        "url": "https://github.com/Dhinesh-KS/Todo-App-Node.js"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+    ]
+  }
+}
