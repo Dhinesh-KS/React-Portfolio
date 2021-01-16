@@ -114,6 +114,12 @@
         "category": "MERN CRUD Application",
         "image": "Post Box.png",
         "url": "https://github.com/Dhinesh-KS/MERN-CRUD"
+      },
+      {
+        "title": "Voice-Assisted-React-FAQ-App",
+        "category": "Voice Assisted Application Using React and Alan AI",
+        "image": "Voice-App.png",
+        "url": "https://www.linkedin.com/posts/dhinesh-ks-836268168_react-voiceassistedapp-activity-6755840869556998144-qt49"
       }
     ]
   },
